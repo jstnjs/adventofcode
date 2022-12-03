@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@adventofcode/day-01": ["packages/day-01/src/index.ts"]
+      "@adventofcode/day-01": ["packages/day-01/src/index.ts"],
+      "@adventofcode/day-02": ["packages/day-02/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
