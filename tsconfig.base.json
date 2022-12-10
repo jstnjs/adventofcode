@@ -21,7 +21,8 @@
       "@adventofcode/day-04": ["packages/day-04/src/index.ts"],
       "@adventofcode/day-05": ["packages/day-05/src/index.ts"],
       "@adventofcode/day-06": ["packages/day-06/src/index.ts"],
-      "@adventofcode/day-08": ["packages/day-08/src/index.ts"]
+      "@adventofcode/day-08": ["packages/day-08/src/index.ts"],
+      "@adventofcode/day-09": ["packages/day-09/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
